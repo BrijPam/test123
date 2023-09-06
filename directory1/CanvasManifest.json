@@ -110,7 +110,7 @@
     "Id": "d0661e67-4d7d-4dfb-bde5-42ce7df1fcad",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "experimental",
     "OriginatingVersion": "1.334",
     "ParserErrorCount": 0,
