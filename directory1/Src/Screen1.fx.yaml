@@ -14,3 +14,20 @@ Screen1 As screen:
         Width: =60
         ZIndex: =3
 
+    Label2 As label:
+        Text: ="Text 1"
+        Y: =153
+        ZIndex: =4
+
+    Label2_1 As label:
+        Text: ="Text 1"
+        X: =150
+        Y: =153
+        ZIndex: =5
+
+    Label2_2 As label:
+        Text: ="Text 1"
+        X: =300
+        Y: =153
+        ZIndex: =6
+
