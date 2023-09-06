@@ -1,1 +1,24 @@
-{}
+{
+  "993a7114-943c-497e-9540-02b11d87cca8": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/laborbol/partial-builds/ase-v3/1.0.1653.3402/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://ispl13.sharepoint.com/sites/Exercise": {
+        "dataSources": {
+          "Nestle": {
+            "tableName": "27b37811-071c-4231-8f91-22c12217f19f"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Nestle"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "993a7114-943c-497e-9540-02b11d87cca8"
+  }
+}
