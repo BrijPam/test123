@@ -1,2 +1,16 @@
 Screen1 As screen:
 
+    Rectangle1 As rectangle:
+        Height: =60
+        Width: =1366
+        ZIndex: =2
+
+    Image1 As image:
+        Height: =60
+        Image: =User().Image
+        PaddingBottom: =5
+        PaddingLeft: =5
+        PaddingTop: =5
+        Width: =60
+        ZIndex: =3
+
