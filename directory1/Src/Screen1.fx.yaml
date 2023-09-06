@@ -33,7 +33,7 @@ Screen1 As screen:
 
     Label2_3 As label:
         Text: ="FO"
-        X: =300
-        Y: =153
+        X: =400
+        Y: =183
         ZIndex: =6
 
