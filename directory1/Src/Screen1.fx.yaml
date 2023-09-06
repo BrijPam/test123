@@ -31,3 +31,8 @@ Screen1 As screen:
         Y: =153
         ZIndex: =6
 
+    Label2_3 As label:
+        Text: ="FO"
+        X: =300
+        Y: =153
+        ZIndex: =6
